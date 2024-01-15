@@ -4,6 +4,6 @@
 
  **The article is provided in _2_ languages:**
  * [English](https://github.com/VictorioMaculan/pro-vaccine-statistics/blob/main/Articles/english.ipynb)
- * Português (Em breve)
+ * [Português](https://github.com/VictorioMaculan/pro-vaccine-statistics/blob/main/Articles/portuguese.ipynb)
 
  **I'd love some help expanding/translating the article, so feel free to contribute!**
